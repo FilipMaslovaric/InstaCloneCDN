@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: filipmaslovariccloud
+  api_key: '254357553323267'
+  api_secret: qRCAHTcj6jb9yx44665BYuFCBM0
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: filipmaslovariccloud
+  api_key: '254357553323267'
+  api_secret: qRCAHTcj6jb9yx44665BYuFCBM0
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: filipmaslovariccloud
+  api_key: '254357553323267'
+  api_secret: qRCAHTcj6jb9yx44665BYuFCBM0
+  enhance_image_tag: true
+  static_image_support: false

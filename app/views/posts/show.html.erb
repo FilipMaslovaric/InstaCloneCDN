@@ -2,7 +2,7 @@
 
 <p>
   <strong>Image url:</strong>
-  <%= @post.image_url %>
+  <%= cl_image_tag(@post.image_url) %>
 </p>
 
 <%= link_to 'Edit', edit_post_path(@post) %> |
